@@ -1,0 +1,46 @@
+th {
+    font-size: larger;
+    color: rgb(255, 215, 36);
+    background-color: rgb(55, 114, 172);
+}
+
+td {
+    font-size: medium;
+    color: rgb(116, 33, 33);
+    background-color: rgb(247, 238, 201);
+}
+
+a {
+    color: crimson;
+}
+
+ol {
+    font-size: large;
+    color: rgb(116, 33, 33);
+    background-color: rgb(247, 238, 201);
+}
+
+li {
+    background-color: rgb(247, 238, 201);
+    color: rgb(55, 114, 172);
+}
+
+h1 {
+    color: red;
+    background-color: rgba(255, 215, 36, 0.233);
+}
+
+table,
+th,
+td {
+    border: 3px solid green;
+}
+
+td,
+caption {
+    font-size: large;
+}
+
+caption {
+    color: rgb(116, 33, 33);
+}
